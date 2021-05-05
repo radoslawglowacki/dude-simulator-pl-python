@@ -1,0 +1,7 @@
+Staty Ziomka: 
+
+Zdrowie: 10
+Butelki: 0
+Blachy: 50
+Szlugi: 0
+Wynik: 0
